@@ -112,8 +112,7 @@ public class Libro{
     }
     
     // metodo para mostrar datos
-    @Override
-    public String toString(){
+    public String mostarDatos{
         return " Titulo: "+nombre+ " Escritor: "+escritor +" Editorial: " +editorial+
                 "\n Cantidad de libros: " +cantLibro+
                 "\n Cantidad de libros prestados: "+cantPres; 
