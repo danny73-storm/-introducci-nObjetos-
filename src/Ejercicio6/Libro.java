@@ -204,5 +204,6 @@ public class Libro{
         System.out.println("Ejemplares: " + libro2.getCantLibro());
         System.out.println("Prestados: " + libro2.getCantPres());
         System.out.println();
+        System.out.println();
     }
 }
